@@ -1,2 +1,2 @@
 # NorthStar_Databases_Analytics
-Database Analytics using R, Python, MongoDB SQL
+Univiersity Project Submission with Database Analytics using R, Python, MongoDB SQL.
